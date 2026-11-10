@@ -1,0 +1,9 @@
+este es un 
+archivo de ejemplo
+para aprender la
+manipulacion de archivos 
+con Phyton.
+
+Anteriormente se hizo un cambio de parrafo
+para observar que significa esto en la gestion
+de archivos
